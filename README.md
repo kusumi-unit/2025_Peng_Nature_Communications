@@ -1,4 +1,5 @@
 # About
+MATLAB custom codes used in Peng et al. Nature Communications 2025.　　
 
 (1) KD calculation for homodimerization  
 Run “KD_calc_master_homo.m” and results are generated as “KD”.
